@@ -9,4 +9,4 @@
 ## Things we dont like
 
 - WeakUp eraly in the morning
-- Spend Money :money:
+- Spend Money :dollar:
